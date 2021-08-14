@@ -30,6 +30,11 @@
 Heroku Support removed temporarily!! Dont deploy, You'll get ban :(
 
 ### The Legacy Way
+𝐇𝐞𝐫𝐨𝐤𝐮
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/muhssiin/LeechToFile)
+
+
 
 Simply clone the repository and run the main file:
 
